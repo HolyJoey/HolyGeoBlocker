@@ -1,4 +1,4 @@
---Made by Holy#9756
+--Made by Holy#6599
 util.require_natives(1676318796)
 local regionKick = {
     [0]  = {kick = false, lang = "English"},
