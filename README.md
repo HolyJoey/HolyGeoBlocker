@@ -5,4 +5,4 @@ Tired of having some fuckers from certain regions in your game? I got the perfec
 
 Allows you to auto kick people based on their selected language.
 
-If you feel this is racist, go fucking cry about it :)
+This shit is fucking outdated. Without breakup kick its quite aids.
